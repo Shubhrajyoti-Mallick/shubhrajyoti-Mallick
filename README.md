@@ -1,6 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Hi%2C+I+am+Shubhrajyoti+Mallick;Former+Software+Engineer ;Aspiring+Data+Scientist;Open+to+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubhrajyoti+Mallick;Software+Engineer+at+ASP+OL+Media;Aspiring+Data+Scientist;Building+Intelligent+Systems" alt="Typing SVG" />
 </h1>
+
+<h3 align="center">🚀 Software Engineer at ASP OL Media | Aspiring Data Scientist | India</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumitsartale4952&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Learning-Data%20Science%20%26%20AI-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat" />
+</p>
 
 
 <p align="center">
