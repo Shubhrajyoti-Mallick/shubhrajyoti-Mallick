@@ -1,22 +1,16 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubhrajyoti+Mallick;Software+Engineer+at+ASP+OL+Media;Aspiring+Data+Scientist;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=30&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Hi%2C+I%27m+Shubhrajyoti+Mallick;Software+Engineer;Aspiring+Data+Scientist;Building+Intelligent+Systems" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Software Engineer at ASP OL Media | Aspiring Data Scientist | India</h3>
 
+
+<h3 align="center">🚀 Software Engineer | Data Science Fresher | Odisha, India</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitsartale4952&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Role-Software%20Engineer-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Learning-Data%20Science%20%26%20AI-brightgreen?style=flat" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat" />
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitsartale4952&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsartale4952" />
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=flat" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20LLMs-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Shubhrajyoti-Mallick&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-1.5%20Years%20Experience-brightgreen?style=flat" alt="Software Engineering Experience" />
+  <img src="https://img.shields.io/badge/Data%20Science-Fresher-blue?style=flat" alt="Data Science Fresher" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-blueviolet?style=flat" alt="Focus: Data Science and AI" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat" alt="Open to Work" />
 </p>
 
 <img align="right" alt="AI coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
@@ -25,15 +19,14 @@
 
 ## 👨‍💻 About Me
 
-
-- 💼 Former **Software Engineer at ASP OL Media** with **1.5 years of experience**
-- 🌱 Currently transitioning into **Data Science** and actively learning Machine Learning, Python, and AI
-- 📊 A Data Science fresher interested in data analysis, predictive modeling, and business insights
+- 💼 Worked as a **Software Engineer** for **1.5 years**
+- 🌱 Currently learning **Data Science, Machine Learning, Python, and AI**
+- 📊 A **Data Science fresher** interested in data analysis, predictive modeling, and business insights
 - 🤖 Exploring **AI, LLMs, RAG pipelines, and intelligent applications**
 - 🧠 Building personal projects to strengthen my Data Science skills
 - 🔎 Open to entry-level **Data Science**, **Machine Learning**, and **Software Engineering** opportunities
-- 📫 Reach me at: **your-email@example.com**
-- 📍 Based in Odisha, India
+- 📫 Reach me at: **jyotishubhra28@gmail.com**
+- 📍 Based in **Odisha, India**
 
 ---
 
