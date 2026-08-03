@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubhrajyoti+Mallick;Software+Engineer+%7C+1.5+Years+at+Asp+OL+Media;Aspiring+Data+Scientist;Python+%7C+Machine+Learning+%7C+AI;Building+Data-Driven+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Hi%2C+I+am+Shubhrajyoti+Mallick;Former+Software+Engineer ;Aspiring+Data+Scientist;Open+to+Opportunities" alt="Typing SVG" />
 </h1>
-
-<h3 align="center">
-  Software Engineer • Aspiring Data Scientist • Python • Machine Learning • AI
-</h3>
 
 
 <p align="center">
@@ -20,15 +16,15 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **4+ years** of experience in **Data Science, Machine Learning & AI Agents**
-- 🤖 Specialized in building **Autonomous AI Agents** using LangChain, LangGraph & CrewAI
-- 🧠 Working with **LLMs** (GPT-4, Claude, Gemini) for production-grade applications
-- 🌱 Currently deepening expertise in **Agentic AI**, **RAG Pipelines** & **Django REST APIs**
-- 🏆 Experienced in **end-to-end ML pipelines** — from EDA to deployment
-- ☁️ Hands-on with **Azure ML**, cloud deployments & scalable data architecture
-- 📊 Passionate about turning raw data into **actionable business insights**
-- 📫 Reach me at: **ssartale6@gmail.com**
-- 📍 Based in **Hyderabad, India**
+
+- 💼 Former **Software Engineer at ASP OL Media** with **1.5 years of experience**
+- 🌱 Currently transitioning into **Data Science** and actively learning Machine Learning, Python, and AI
+- 📊 A Data Science fresher interested in data analysis, predictive modeling, and business insights
+- 🤖 Exploring **AI, LLMs, RAG pipelines, and intelligent applications**
+- 🧠 Building personal projects to strengthen my Data Science skills
+- 🔎 Open to entry-level **Data Science**, **Machine Learning**, and **Software Engineering** opportunities
+- 📫 Reach me at: **your-email@example.com**
+- 📍 Based in Odisha, India
 
 ---
 
