@@ -1,6 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sumit+Sartale;Data+Scientist+%7C+AI+Engineer;4%2B+Years+of+Experience;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubhrajyoti+Mallick;Software+Engineer+%7C+1.5+Years+at+Asp+OL+Media;Aspiring+Data+Scientist;Python+%7C+Machine+Learning+%7C+AI;Building+Data-Driven+Solutions" alt="Typing SVG" />
 </h1>
+
+<h3 align="center">
+  Software Engineer • Aspiring Data Scientist • Python • Machine Learning • AI
+</h3>
 
 <h3 align="center">🚀 Senior Data Scientist & AI Agents Engineer | Hyderabad, India</h3>
 
