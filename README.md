@@ -6,7 +6,6 @@
   Software Engineer • Aspiring Data Scientist • Python • Machine Learning • AI
 </h3>
 
-<h3 align="center">🚀 Senior Data Scientist & AI Agents Engineer | Hyderabad, India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sumitsartale4952&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsartale4952" />
